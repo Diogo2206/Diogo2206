@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there  :woman_technologist:
 
 Eu sou o Diogo Teles, sou um Programador Front End e atualmente criando projetos com:
 <br>
